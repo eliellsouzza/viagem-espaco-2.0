@@ -1,0 +1,27 @@
+.container-card{
+color: white;
+background-color: #210249;
+padding: 50px;
+border-radius: 15px;
+width: 15vw;
+height: 25vh;
+display: flex;
+align-items: center;
+justify-content: center;
+border-width: 2px; 
+border-style: solid; 
+border-color:  rgb(5, 1, 22);
+}
+
+ 
+.add{
+    border: none;
+    padding: 3px;
+    text-decoration: none;
+    cursor: pointer;
+   color: rgb(255, 255, 255);
+    border-radius: 5px;
+    background-color: #ff8c00 ;
+
+}
+ 

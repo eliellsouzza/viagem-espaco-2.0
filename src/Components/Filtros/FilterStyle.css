@@ -1,0 +1,14 @@
+.filters{
+    color: #21024b;
+     
+    background-color: #Ffcb16;
+    padding: 50px;
+    border-radius: 20px;
+    width: 15vw;
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+     
+}

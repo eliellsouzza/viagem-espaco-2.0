@@ -1,0 +1,44 @@
+.Menu {
+  display: flex;
+  list-style: none;
+  justify-content: space-between;
+  padding: 1em;
+  height: 15vh;
+  
+}
+
+.logomenu {
+  display: block;
+  margin-left: 5em;
+  margin-top: 0em;
+}
+
+.Menu ul {
+  display: flex;
+  list-style: none;
+  align-items: center;
+  margin-top: 1.3em;
+  margin-right: 10em;
+}
+
+.item {
+  margin: 1em;
+  display: flex;
+  justify-content: space-between;
+}
+
+.item a {
+  color: white;
+  text-decoration: none;
+}
+
+.item a:hover {
+  color: rgb(255, 4, 109);
+}
+
+
+.Cart{
+font-size: 40px;
+color: white;
+text-decoration: none;
+}

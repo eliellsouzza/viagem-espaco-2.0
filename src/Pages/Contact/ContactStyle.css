@@ -1,0 +1,81 @@
+.moon {
+  background-image: url(/src/assets/lua2.0.png);
+  background-repeat: no-repeat;
+  background-size: 1100px;
+  background-position: 190px 2px;
+}
+
+.Contact {
+  height: 70vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Contact {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  color: #fff;
+  padding: 14px;
+}
+
+.title {
+  margin-bottom: 14px;
+}
+
+.form {
+  max-width: 600px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.input {
+  margin-bottom: 14px;
+  height: 34px;
+  border-radius: 4px;
+  border: 0;
+  padding: 0 8px;
+}
+
+.textarea {
+  margin-bottom: 14px;
+  border-radius: 4px;
+  border: 0;
+  padding: 8px;
+  height: 150px;
+  resize: none;
+}
+
+.button {
+  height: 34px;
+  border-radius: 4px;
+  border: 0;
+  cursor: pointer;
+  background-color: rgb(255, 4, 109);
+  font-size: 18px;
+  transition: background-color, transform 0.8s;
+}
+
+.button:hover {
+  color: rgb(255, 255, 255);
+  transform: scale(1.01);
+}
+
+.carteiro{
+    position: absolute;
+    margin-top: 248px;
+    margin-left: 1020px;
+ 
+}
+
+.foguetecontato12{
+
+    position: absolute;
+    margin-top: 278px;
+    margin-left: px;
+
+}

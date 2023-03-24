@@ -1,0 +1,25 @@
+.Catalog {
+  font-family: myFont1;
+  height: 70vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  text-align: center;
+margin-right: 20px;
+ margin-left: 20px;
+ padding-top: 80px;
+}
+
+.teste{
+display: flex;
+align-items: center;
+flex-wrap: wrap;
+gap: 1px;
+width: 70vw;
+height: 50vh;
+justify-content: center;
+ 
+margin-right: 20px;
+
+}

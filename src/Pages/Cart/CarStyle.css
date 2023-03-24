@@ -1,0 +1,7 @@
+.Cart{
+    background-color: rgb(224, 55, 55);
+    height: 70vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }

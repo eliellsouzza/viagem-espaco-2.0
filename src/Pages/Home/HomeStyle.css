@@ -1,0 +1,94 @@
+.moon {
+  background-image: url(/src/assets/lua2.0.png);
+  background-repeat: no-repeat;
+  background-size: 1100px;
+  background-position: 190px 2px;
+}
+
+@font-face {
+  font-family: myfont;
+  src: url(../../Fonts/OliveDays.ttf);
+}
+
+@font-face {
+  font-family: myfont1;
+  src: url(../../Fonts/montserrat.ttf);
+}
+
+.Home {
+  height: 70vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.rocket1 {
+  margin-left: 100px;
+}
+.rocket1 {
+  transform: translate(-50%, -50%);
+}
+.rocket1 {
+  animation: flutuacao 10s ease-in-out infinite;
+}
+@keyframes flutuacao {
+  0%,
+  100% {
+    transform: translate(0px);
+  }
+  50% {
+    transform: translate(-60px);
+  }
+}
+
+.TextHome {
+  font-size: 45px;
+  font-family: myFont;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title1 {
+  color: #08bce0;
+}
+
+.title2 {
+  color: #f10b63;
+}
+
+.title3 {
+  color: white;
+  font-family: myFont1;
+  font-size: 20px;
+}
+
+.destinations {
+  color: white;
+  background-color: #f10b63;
+  font-family: myFont1;
+  border: #e0226a;
+  cursor: pointer;
+  border-radius: 10px;
+  width: 140px;
+  height: 30px;
+  display: flex;
+  list-style: none;
+  gap: 10px;
+  align-items: center;
+  font-size: 18px;
+  justify-content: center;
+}
+
+.rocketbutton {
+  display: flex;
+}
+
+.rocket2 {
+   
+  margin-bottom: 1em;
+  margin-top: 106px;
+  margin-left: 20px;
+}
+
+

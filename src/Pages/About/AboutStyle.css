@@ -1,0 +1,109 @@
+@font-face {
+  font-family: font;
+  src: url(../../assets/fonts/swsw.ttf);
+}
+
+.moonWhite {
+  background-image: url(/src/assets/backImage.png);
+  /* background-repeat: no-repeat; */
+  background-size: 170vh  ;
+  
+  background-position: 10vw -28vh;
+  
+}
+
+.Astronaut1 {
+  margin-top: 105px;
+  padding-right: 85px;
+
+}
+.About {
+  height: 70vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-right: 500px;
+  
+}
+
+.barraSuperior {
+  background-color: #030961;
+  display: flex;
+  gap: 5px;
+  padding-left: 10px;
+  width: 49vw;
+  height: 5vh;
+  border-radius: 10px;
+  align-items: center;
+}
+
+.red {
+  background-color: red;
+  border-radius: 50%;
+  width: 18px;
+  height: 18px;
+  color: red;
+  font: 0;
+}
+.yellow {
+  background-color: yellow;
+  border-radius: 50%;
+  width: 18px;
+  height: 18px;
+  color: yellow;
+  font: 0;
+}
+.green {
+  background-color: green;
+  border-radius: 50%;
+  width: 18px;
+  height: 18px;
+  color: green;
+  font: 0;
+}
+
+.centralizando{
+  
+ position:relative;
+
+}
+
+.quemsomos{
+  color: white;
+  font-family: font;
+  margin-left: 230px;
+}
+
+
+.AboutUs {
+  background-color: #080b36;
+  width: 49vw;
+  height: 35vh;
+  border-radius: 20px;
+ 
+  
+}
+
+
+.paragrafo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-left: 20px;
+  padding-top: 30px;
+  color: white;
+  font-family: font;
+}
+
+.asteroide {
+  margin-bottom: 350px;
+}
+
+.planetandasteroid {
+  width: 450px;
+  height: 450px;
+  display: flex;
+  margin-top: 220px;
+  align-items: center;
+}
+ 
